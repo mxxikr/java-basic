@@ -23,7 +23,7 @@
 
 1. **강의 소개와 자료**
 
-2. **클래스와 데이터**
+2. [**클래스와 데이터**](https://mxxikr.github.io/posts/java-basic-class-data/)
 
    * 프로젝트 환경 구성
    * 클래스 도입의 필요성 이해
