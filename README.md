@@ -1,10 +1,15 @@
+# 🌱 김영한의 실전 자바 - 기본편 (Basic)
+
+[![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=java)](https://www.oracle.com/java/)
+[![IDE](https://img.shields.io/badge/IntelliJ-IDEA-blue?logo=intellij-idea)](https://www.jetbrains.com/idea/)
+
 김영한님의 [실전 자바 - 기본편 강의](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B8%B0%EB%B3%B8%ED%8E%B8) 실습 코드 아카이브
 
 ---
 
 ### 💻 Development Environment
 
-* java 17 (or 21)
+* java 17
 * IDE: IntelliJ IDEA
 
 ### 🏆 실습 목표
