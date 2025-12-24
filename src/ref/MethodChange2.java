@@ -1,4 +1,4 @@
-package class1.ref;
+package ref;
 
 /**
  * 메서드로 참조형 데이터를 전달하면, 참조값이 복사되어 전달됨
