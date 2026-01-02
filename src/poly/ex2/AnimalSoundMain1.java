@@ -6,9 +6,14 @@ public class AnimalSoundMain1 {
         Cat cat = new Cat();
         Cow cow = new Cow();
 
-        soundAnimal(dog);
-        soundAnimal(cat);
-        soundAnimal(cow);
+        //둘은 같은 코드이다.
+        Animal[] animalArr = new Animal[]{dog, cat, cow};
+//        Animal[] animalArr = {dog, cat, cow}
+
+        // 변하지 않는 부분
+        for (Animal animal : animalArr) {
+            soundAnimal(animal);
+        }
     }
 
     // 동물이 추가 되어도 변하지 않는 코드
