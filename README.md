@@ -30,65 +30,65 @@
    * 객체와 인스턴스의 개념 및 차이점 정리
    * 배열의 활용과 리팩토링 실습
 
-3. **기본형과 참조형**
+3. [**기본형과 참조형**](https://mxxikr.github.io/posts/java-basic-reference-types/)
 
    * 기본형(Primitive)과 참조형(Reference)의 차이
    * 변수 대입과 메서드 호출 시 동작 방식 차이
    * null의 개념과 NullPointerException 처리
 
-4. **객체 지향 프로그래밍**
+4. [**객체 지향 프로그래밍**](https://mxxikr.github.io/posts/java-basic-oop/}
 
    * 절차 지향 프로그래밍의 한계와 데이터 묶음
    * 메서드 추출을 통한 구조 개선
    * 객체 지향 프로그래밍의 개념 및 적용
 
-5. **생성자**
+5. [**생성자**](https://mxxikr.github.io/posts/java-basic-constructor/)
 
    * 생성자의 필요성과 this 키워드 활용
    * 기본 생성자와 사용자 정의 생성자
    * 생성자 오버로딩을 통한 객체 초기화 유연성 확보
 
-6. **패키지**
+6. [**패키지**](https://mxxikr.github.io/posts/java-basic-package/)
 
    * 패키지의 개념과 import 활용
    * 패키지 규칙 및 계층 구조 설계
 
-7. **접근 제어자**
+7. [**접근 제어자**](https://mxxikr.github.io/posts/java-basic-capsul/)
 
    * 접근 제어자의 종류와 필요성 이해 (private, default, protected, public)
    * 필드, 메서드, 클래스 레벨별 접근 제어 적용
    * 데이터 캡슐화(Encapsulation) 원칙 실습
 
-8. **자바 메모리 구조와 static**
+8. [**자바 메모리 구조와 static**](https://mxxikr.github.io/posts/java-basic-static/)
 
    * 자바 메모리 구조 상세 (메서드, 스택, 힙 영역)
    * 스택(Stack)과 큐(Queue) 자료구조 이해
    * static 변수와 메서드의 생명주기 및 활용
 
-9. **final**
+9. [**final**](https://mxxikr.github.io/posts/java-basic-final/)
 
    * final 변수와 상수의 차이
    * final이 참조형 변수와 필드에 미치는 영향
 
-10. **상속**
+10. [**상속**](https://mxxikr.github.io/posts/java-basic-extends/)
 
     * 상속의 개념과 메모리 구조 변화
     * 메서드 오버라이딩을 통한 기능 재정의
     * super 키워드를 통한 부모 클래스 참조 및 생성자 호출
 
-11. **다형성 1**
+11. [**다형성 1**](https://mxxikr.github.io/posts/java-basic-poly1/)
 
     * 다형성의 핵심 개념과 참조 변수의 타입 변환(Casting)
     * 업캐스팅과 다운캐스팅, instanceof 활용
     * 다형성과 메서드 오버라이딩의 관계
 
-12. **다형성 2**
+12. [**다형성 2**](https://mxxikr.github.io/posts/java-basic-poly2/)
 
     * 다형성을 활용한 유연한 코드 설계
     * 추상 클래스(Abstract Class)의 정의와 활용
     * 인터페이스(Interface)의 역할과 다중 구현
 
-13. **다형성과 설계**
+13. [**다형성과 설계**](https://mxxikr.github.io/posts/java-basic-poly3/)
 
     * 좋은 객체 지향 프로그래밍의 원칙
     * 역할(Role)과 구현(Implementation)의 분리
