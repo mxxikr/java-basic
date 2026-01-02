@@ -36,7 +36,7 @@
    * 변수 대입과 메서드 호출 시 동작 방식 차이
    * null의 개념과 NullPointerException 처리
 
-4. [**객체 지향 프로그래밍**](https://mxxikr.github.io/posts/java-basic-oop/}
+4. [**객체 지향 프로그래밍**](https://mxxikr.github.io/posts/java-basic-oop/)
 
    * 절차 지향 프로그래밍의 한계와 데이터 묶음
    * 메서드 추출을 통한 구조 개선
